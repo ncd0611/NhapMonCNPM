@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace PMQLBanHang.BUS
 {
-    class QuanLyBUS
+    public class QuanLyBUS
     {
         ConnectDB connectDB = new ConnectDB();
         public string getUserName(int matk)

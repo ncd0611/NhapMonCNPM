@@ -8,10 +8,10 @@ using System.Threading.Tasks;
 
 namespace PMQLBanHang.BUS
 {
-    class ChiTietHoaDonBanBUS
+    public class ChiTietHoaDonBanBUS
     {
         ConnectDB connectDB = new ConnectDB();
-        internal DataTable getListSPBanInCTHD(int mahd)
+        public DataTable getListSPBanInCTHD(int mahd)
         {
             //create proc sp_ds_SanPham_CTHDBanHang @mahd int
             //as
@@ -24,7 +24,7 @@ namespace PMQLBanHang.BUS
             object[] values = new object[] { mahd };
             return connectDB.ExecuteProc("sp_ds_SanPham_CTHDBanHang", nameParams, values);
         }
-        internal int addSanPhamOrUpdateQuality(ChiTietHoaDonBan x)
+        public int addSanPhamOrUpdateQuality(ChiTietHoaDonBan x)
         {
             //create proc sp_them_SanPham_CTHDBan @mahd int, @masp int, @soluongban int
             //as
@@ -49,7 +49,7 @@ namespace PMQLBanHang.BUS
             object[] values = new object[] { x.Mahd, x.Masp, x.Soluongmua };
             return connectDB.ExecuteNonProc("sp_them_SanPham_CTHDBan", nameParams, values);
         }
-        internal int updateSanPhamInChiTietHoaDon(ChiTietHoaDonBan x)
+        public int updateSanPhamInChiTietHoaDon(ChiTietHoaDonBan x)
         {
             //create proc sp_capnhat_SanPham_CTHDBan @mahd int, @masp int, @soluongban int
             //as
@@ -68,7 +68,7 @@ namespace PMQLBanHang.BUS
             object[] values = new object[] { x.Mahd, x.Masp, x.Soluongmua };
             return connectDB.ExecuteNonProc("sp_capnhat_SanPham_CTHDBan", nameParams, values);
         }
-        internal int deleteSanPhamInChiTietHoaDon(int mahd,int masp,int tongtien)
+        public int deleteSanPhamInChiTietHoaDon(int mahd,int masp,int tongtien)
         {
             //create proc sp_xoa_SanPham_CTHDBan @mahd int, @masp int,@tongtien float
             //as
@@ -85,7 +85,7 @@ namespace PMQLBanHang.BUS
             object[] values = new object[] { mahd, masp, tongtien };
             return connectDB.ExecuteNonProc("sp_xoa_SanPham_CTHDBan", nameParams, values);
         }
-        internal DataTable getListSPBan(int maHD)
+        public DataTable getListSPBan(int maHD)
         {
             //create proc sp_ds_SanPhamBan
             // as begin
@@ -94,7 +94,7 @@ namespace PMQLBanHang.BUS
             // end
             return connectDB.ExecuteProc("sp_ds_SanPhamBan");
         }
-        internal int getTongTienHD(int maHD)
+        public int getTongTienHD(int maHD)
         {
             string query = "select fTongTien from tblHoaDonBan where iMaHDB = " + maHD;
             object result = (connectDB.ExecuteScalar(query));

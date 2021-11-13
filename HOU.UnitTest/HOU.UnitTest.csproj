@@ -50,9 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BUS\ChiTietHoaDonBanBUSUnitTest.cs" />
-    <Compile Include="BUS\ChiTietHoaDonNhapBUSUnitTest.cs" />
     <Compile Include="BUS\HoaDonBanHangBUSUnitTest.cs" />
-    <Compile Include="BUS\HoaDonNhapBUSUnitTest.cs" />
     <Compile Include="BUS\LoginBUSUnitTest.cs" />
     <Compile Include="BUS\NhanVienBUSUnitTest.cs" />
     <Compile Include="BUS\QuanLyBUSUnitTest.cs" />

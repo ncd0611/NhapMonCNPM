@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PMQLBanHang.DTO
 {
-    class HoaDonBan
+    public class HoaDonBan
     {
         int mahd;
         int manv;

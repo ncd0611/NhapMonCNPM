@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace PMQLBanHang.BUS
 {
-    class HoaDonBanHangBUS
+    public class HoaDonBanHangBUS
     {
         ConnectDB connectDB = new ConnectDB();
         internal object getListHD()
@@ -32,7 +32,7 @@ namespace PMQLBanHang.BUS
             return list;
         }
 
-        internal bool addHoaDonBan(HoaDonBan x)
+        public bool addHoaDonBan(HoaDonBan x)
         {
             //create proc sp_them_HoaDonBan @mahd int, @manv int, @ngaylap datetime
             //    as
@@ -59,7 +59,7 @@ namespace PMQLBanHang.BUS
             return connectDB.ExecuteQuery(query);
         }
 
-        internal bool updateHoaDonBan(HoaDonBan x)
+        public bool updateHoaDonBan(HoaDonBan x)
         {
             //create proc sp_capnhat_HoaDonBan @mahd int, @manv int, @ngaylap datetime,@tongtien float, @trangthai int
             //as
@@ -82,7 +82,7 @@ namespace PMQLBanHang.BUS
         }
 
      
-        internal bool deleteHoaDonBanHang(string mahd)
+        public bool deleteHoaDonBanHang(string mahd)
         {
             //create proc sp_xoa_HoaDonBan_va_ChiTietHDB @mahd int
             //    begin
@@ -113,14 +113,14 @@ namespace PMQLBanHang.BUS
             }
         }
 
-        internal int getMaloaiFromMaTK(int matk)
+        public int getMaloaiFromMaTK(int matk)
         {
             string query = "select a.iMaLoaiTK from tblTaiKhoan a where a.iMaTK=" + matk + "";
             Object result = connectDB.ExecuteScalar(query);
             return Convert.ToInt32(result);
         }
 
-        internal bool ThanhToan(string text)
+        public bool ThanhToan(string text)
         {
             //create proc sp_thanhtoan_HoaDonBan @mahd int
             //as

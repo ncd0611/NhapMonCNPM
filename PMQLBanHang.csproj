@@ -55,9 +55,7 @@
   <ItemGroup>
     <Compile Include="ConnectDB.cs" />
     <Compile Include="BUS\ChiTietHoaDonBanBUS.cs" />
-    <Compile Include="BUS\ChiTietHoaDonNhapBUS.cs" />
     <Compile Include="BUS\HoaDonBanHangBUS.cs" />
-    <Compile Include="BUS\HoaDonNhapBUS.cs" />
     <Compile Include="BUS\SanPhamBUS.cs" />
     <Compile Include="BUS\LoginBUS.cs" />
     <Compile Include="BUS\NhanVienBUS.cs" />

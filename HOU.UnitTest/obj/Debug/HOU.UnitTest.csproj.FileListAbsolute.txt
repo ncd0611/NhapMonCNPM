@@ -16,3 +16,21 @@ D:\ST4_CNPM\NhapMonCNPM\HOU.UnitTest\obj\Debug\HOU.UnitTest.csproj.CopyComplete
 D:\ST4_CNPM\NhapMonCNPM\HOU.UnitTest\obj\Debug\HOU.UnitTest.dll
 D:\ST4_CNPM\NhapMonCNPM\HOU.UnitTest\obj\Debug\HOU.UnitTest.pdb
 D:\ST4_CNPM\NhapMonCNPM\HOU.UnitTest\bin\Debug\HOU.UnitTest.dll.config
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\HOU.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\HOU.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\HOU.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\HOU.UnitTest\bin\Debug\HOU.UnitTest.dll.config
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\HOU.UnitTest\bin\Debug\HOU.UnitTest.dll
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\HOU.UnitTest\bin\Debug\HOU.UnitTest.pdb
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\HOU.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\HOU.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\HOU.UnitTest\bin\Debug\PMQLBanHang.exe
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\HOU.UnitTest\bin\Debug\PMQLBanHang.pdb
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\HOU.UnitTest\bin\Debug\PMQLBanHang.exe.config
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\HOU.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\HOU.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\HOU.UnitTest\obj\Debug\HOU.UnitTest.csproj.AssemblyReference.cache
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\HOU.UnitTest\obj\Debug\HOU.UnitTest.csproj.CoreCompileInputs.cache
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\HOU.UnitTest\obj\Debug\HOU.UnitTest.csproj.CopyComplete
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\HOU.UnitTest\obj\Debug\HOU.UnitTest.dll
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\HOU.UnitTest\obj\Debug\HOU.UnitTest.pdb

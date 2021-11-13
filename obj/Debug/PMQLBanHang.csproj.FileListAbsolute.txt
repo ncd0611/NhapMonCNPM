@@ -100,3 +100,23 @@ F:\LearnHOU\Nhập môn CNPM\NhapMonCNPM\obj\Debug\PMQLBanHang.csproj.CoreCompil
 F:\LearnHOU\Nhập môn CNPM\NhapMonCNPM\obj\Debug\PMQLBanHang.csproj.CopyComplete
 F:\LearnHOU\Nhập môn CNPM\NhapMonCNPM\obj\Debug\PMQLBanHang.exe
 F:\LearnHOU\Nhập môn CNPM\NhapMonCNPM\obj\Debug\PMQLBanHang.pdb
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\bin\Debug\PMQLBanHang.exe.config
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\bin\Debug\PMQLBanHang.exe
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\bin\Debug\PMQLBanHang.pdb
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\bin\Debug\WebDriver.dll
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\bin\Debug\WindowsBase.dll
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\bin\Debug\WebDriver.xml
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\obj\Debug\PMQLBanHang.csproj.AssemblyReference.cache
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\obj\Debug\PMQLBanHang.DangNhap.resources
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\obj\Debug\PMQLBanHang.Properties.Resources.resources
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\obj\Debug\PMQLBanHang.Views.FrmChiTietHoaDonBan.resources
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\obj\Debug\PMQLBanHang.Views.FrmHoaDonBan.resources
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\obj\Debug\PMQLBanHang.Views.FrmNhanVien.resources
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\obj\Debug\PMQLBanHang.Views.FrmQuanLy.resources
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\obj\Debug\PMQLBanHang.Views.FrmSanPham.resources
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\obj\Debug\PMQLBanHang.Views.FrmTaiKhoan.resources
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\obj\Debug\PMQLBanHang.csproj.GenerateResource.cache
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\obj\Debug\PMQLBanHang.csproj.CoreCompileInputs.cache
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\obj\Debug\PMQLBanHang.csproj.CopyComplete
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\obj\Debug\PMQLBanHang.exe
+D:\Nhập môn CNPM\Source code\NhapMonCNPM\obj\Debug\PMQLBanHang.pdb
